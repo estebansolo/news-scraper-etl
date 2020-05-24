@@ -14,14 +14,13 @@ Trnasform the information, remove duplicates, clean the csv files from the extra
 
 Save all the information in a SQLite
 
-## Installation
+## What I Learned
 
-```
-pip install -r requirements.txt
-```
+  - Different ways ti use property decorator in the Scraper Classes
+  - Pandas, this is the first time I work with the library
+  - NLTK library
 
-## Run
+## Scripts
 
-```
-python pipeline.py
-```
+  - `pip install -r requirements.txt` to install requirements
+  - `python pipeline.py` to execute ETL
